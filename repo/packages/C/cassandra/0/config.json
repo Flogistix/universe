@@ -119,7 +119,7 @@
               "description": "CPU shares to allocate to each Cassandra Server Instance.",
               "type": "number",
               "minimum": 0.0,
-              "default": 4.0
+              "default": 3.5
             },
             "mem": {
               "description": "Memory (MB) to allocate to each Cassandra Server instance.",
