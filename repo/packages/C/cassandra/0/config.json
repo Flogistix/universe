@@ -125,7 +125,7 @@
               "description": "Memory (MB) to allocate to each Cassandra Server instance.",
               "type": "integer",
               "minimum": 0,
-              "default": 15360
+              "default": 10240
             },
             "disk": {
               "description": "Disk (MB) to allocate to each Cassandra Server instance.",
