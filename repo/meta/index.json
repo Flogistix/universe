@@ -1,10 +1,10 @@
 {
   "packages":[
     {
-      "currentVersion":"0.1.0-1",
+      "currentVersion":"0.1.1-0",
       "description":"Apache Cassandra running on Apache Mesos",
       "framework":true,
-      "name":"cassandra",
+      "name":"cassandra-flogistix",
       "tags":[
         "mesosphere",
         "framework"
