@@ -4,7 +4,7 @@
       "currentVersion":"0.1.1-0",
       "description":"Apache Cassandra running on Apache Mesos",
       "framework":true,
-      "name":"cassandra-flogistix",
+      "name":"cassandra",
       "tags":[
         "mesosphere",
         "framework"
