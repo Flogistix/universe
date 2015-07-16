@@ -1,7 +1,7 @@
 {
-  "name": "cassandra",
-  "version": "0.1.0-2",
-  "scm": "https://github.com/mesosphere/cassandra-mesos.git",
+  "name": "cassandra-flogistix",
+  "version": "0.1.1-0",
+  "scm": "https://github.com/flogistix/cassandra-mesos.git",
   "maintainer": "support@mesosphere.io",
   "description": "Apache Cassandra running on Apache Mesos",
   "framework": true,

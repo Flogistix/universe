@@ -8,7 +8,7 @@
     0
   ],
   "uris": [
-    "https://downloads.mesosphere.io/cassandra-mesos/artifacts/0.1.0-1/cassandra-mesos-0.1.0-1.tar.gz",
+    "https://s3-us-west-1.amazonaws.com/flogistix-cluster/cassandra-mesos-0.1.1-0.tar.gz",
     "https://downloads.mesosphere.io/java/jre-7u76-linux-x64.tar.gz"
   ],
   "healthChecks": [
